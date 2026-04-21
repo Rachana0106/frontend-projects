@@ -10,6 +10,7 @@ Welcome to my collection of frontend development projects built using HTML, CSS,
 A simple live code editor that allows users to write HTML, CSS, and JavaScript and see output in real-time.
 
 🔗 Live Demo: https://rachana0106.github.io/live-code-editor/  
+
 📂 GitHub: https://github.com/Rachana0106/live-code-editor
 
 ---
