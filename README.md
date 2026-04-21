@@ -15,6 +15,10 @@ A simple live code editor that allows users to write HTML, CSS, and JavaScript a
 
 ---
 
+🚧 More projects coming soon...
+
+---
+
 ## 🛠 Tech Stack
 - HTML5  
 - CSS3  
