@@ -15,7 +15,22 @@ A simple live code editor that allows users to write HTML, CSS, and JavaScript a
 
 ---
 
-🚧 More projects coming soon...
+### 🔹Micro Mood Weather System
+An interactive web application that combines real-time weather data and user mood analysis to generate personalized lifestyle recommendations.
+
+🔗 Live Demo: https://rachana0106.github.io/whether-mood-system/  
+
+📂 GitHub: [[https://github.com/Rachana0106/whether-mood-system]
+
+---
+
+### 🔹She Can Foundation Website
+
+A modern and responsive NGO website developed for She Can Foundation.
+
+🔗 Live Demo: https://rachana0106.github.io/she-can-foundation-website/  
+
+📂 GitHub: [[https://github.com/Rachana0106/she-can-foundation-website]
 
 ---
 
